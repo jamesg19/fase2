@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4319fff4-a131-484a-b885-87da32054584" name="Changes" comment="extraccion de datos">
+    <list default="true" id="4319fff4-a131-484a-b885-87da32054584" name="Changes" comment="Mejoras en conteo por municipio y departamentos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="extraccion de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="extraccion de datos" />
+    <MESSAGE value="Mejoras en conteo por municipio y departamentos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mejoras en conteo por municipio y departamentos" />
   </component>
 </project>
